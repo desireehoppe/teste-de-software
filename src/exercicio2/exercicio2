@@ -1,0 +1,59 @@
+TC01
+Informar os valores P(2,2,2)
+Sistema deve retornar "triangulo equilátero"
+
+TC02
+Informar os valores P(4,4,3)
+Sistema deve retornar "triangulo isósceles"
+
+TC03
+Informar os valores P(4,3,4)
+Sistema deve retornar "triangulo isósceles"
+
+TC04
+Informar os valores P(3,4,4)
+Sistema deve retornar "triangulo isósceles"
+
+TC05
+Informar os valores P(4,2,3)
+Sistema deve retornar "triangulo escaleno"
+
+TC06
+Informar os valores P(0,4,3)
+Sistema nao deve aceitar zero como um valor possivel
+
+TC07
+Informar os valores P(4,0,3)
+Sistema nao deve aceitar zero como um valor possivel
+
+TC08
+Informar os valores P(3,4,0)
+Sistema nao deve aceitar zero como um valor possivel
+
+TC09
+Informar os valores P(0,0,0)
+Sistema nao deve aceitar zero como um valor possivel
+
+TC10
+Informar os valores P(-1,4,3)
+Sistema nao deve aceitar valores negativos
+
+TC11
+Informar os valores P(4,-1,3)
+Sistema nao deve aceitar valores negativos
+
+TC12
+Informar os valores P(3,4,-1)
+Sistema nao deve aceitar valores negativos
+
+TC13
+Informar os valores P(-1,-1,-1)
+Sistema nao deve aceitar valores negativos
+
+TC14
+Informar os valores P(4,1,2)
+Sistema deve informar que a soma de dois lados deve ser maior que o terceiro lado
+
+TC15
+Informar os valores P(4,2,2)
+Sistema deve informar que a soma de dois lados deve ser maior que o terceiro lado

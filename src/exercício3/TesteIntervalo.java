@@ -18,6 +18,12 @@ public class TesteIntervalo {
 		
 		Interval intervalo = new Interval(dataInicio, dataFim);
 		assertTrue(intervalo.contains(hoje));
+	
+		long periodo = intervalo.toDurationMillis();
+		
+		long dias = periodo / 86400000            ;
+		
+		System.out.print(dias);
 		
 	}
 
